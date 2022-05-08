@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Haine nationale - Informatie</title>
+  </head>
+  <body>
+    <nav>
+      <a class="logo" href="./index.html">Haine nationale</a>
+      <div class="links">
+        <a href="./informatie.html" class="active">informatie</a>
+        <a href="./contacte.html">Contacte</a>
+      </div>
+    </nav>
+    <main class="double-col">
+      <div class="col">
+        <h2>Haine in stoc</h2>
+        <table class="Haine in stoc">
+          <tr>
+            <th>denumire</th>
+            <th>pret</th>
+          </tr>
+          <tr>
+            <td>Ie in ozoare albastre de dama</td>
+            <td>
+              <p>1 200 lei</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Ie in ozoare rosii de dama</td>
+            <td>
+              <p>1 050 lei</p>
+            </td>
+          </tr>
+          <tr>
+            <td>costum național de dama</td>
+            <td>
+              <p>400 lei</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Ie barbateasca</td>
+            <td>
+              <p>1 200 lei</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Costum national barbatesc</td>
+            <td>
+              <p>250 lei</p>
+            </td>
+          </tr>
+          <tr>
+            <td>Costum national pentru copii</td>
+            <td>
+              <p>980 lei</p>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="col">
+        <h2>Haine nationale</h2>
+        <ul class="Haine">
+          <li>Altita</li>
+          <li>Poala</li>
+          <li>Catrinta</li>
+          <li>Braul</li>
+          <li>Ie</li>
+          <li>Lilicul (2017)</li>
+          <li>Opinci</li>
+          <li>Itari</li>
+          <li>Cingatorile</li>
+          <li>Sumanul</li>
+          <li>Batic</li>
+        </ul>
+      </div>
+    </main>
+  </body>
+</html>
